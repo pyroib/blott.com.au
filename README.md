@@ -1,7 +1,7 @@
 
 #  blott.com.au Website
 
-A serious of portoflio web sites for my personal CV
+A series of portoflio web sites for my personal CV
 
 ## Getting Started
 
